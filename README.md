@@ -2,7 +2,7 @@
 
 :train2::vertical_traffic_light: This software simulates the interlocking systems and the traffic control of the [Children's Railway, Budapest](https://gyermekvasut.hu/en/home/).
 
-:mortar_board::children_crossing: It has been made for educational purposes, to improve the training of ~400 children every year. It was actively used between September 2015 and February 2019.
+:mortar_board::children_crossing: It has been made for educational purposes, to improve the training of ~400 children every year. It was actively used between 2015 and 2020.
 
 :chart_with_upwards_trend::baby: I developed it in 2013-2014 when I was 14-15 years old. At that time, I was absolulety new to programming and had no professional knowledge about software engineering. Some kind people helped me during the development but there were always some issues with the 'product'.
 
