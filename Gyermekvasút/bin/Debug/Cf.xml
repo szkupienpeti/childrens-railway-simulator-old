@@ -1,0 +1,34 @@
+<!--GYVSZ Menetrend fájl – program által generált kód-->
+<!--Ha ezt a fájlt kézzel szerkeszted, elronthatod az egészet. Kérlek, ne tedd! Köszi! :) P-->
+<Menetrend>
+  <About Datum="2015.10.02.">
+    <Keszito Nev="Szepes Viktor" />
+    <Keszito Nev="Szkupien Péter" />
+  </About>
+  <Altalanos>
+    <MenetrendiKod Kod="Cf" />
+    <Gyorsitas SebessegOszto="10" />
+    <KezdesiIdo Ido="9:00" />
+  </Altalanos>
+  <Vonatok>
+    <Vonat Vonatszam="111" Koruljar="True">
+      <Letrehozas Allomas="Hűvösvölgy" Vagany="1" />
+      <Forda>
+        <Fordulo Vonatszam="111" />
+        <Fordulo Vonatszam="112" />
+        <Fordulo Vonatszam="113" />
+        <Fordulo Vonatszam="114" />
+      </Forda>
+    </Vonat>
+    <Vonat Vonatszam="212" Koruljar="True">
+      <Letrehozas Allomas="Széchenyi-hegy" Vagany="2" />
+      <Forda>
+        <Fordulo Vonatszam="212" />
+        <Fordulo Vonatszam="213" />
+        <Fordulo Vonatszam="214" />
+        <Fordulo Vonatszam="215" />
+        <Fordulo Vonatszam="216" />
+      </Forda>
+    </Vonat>
+  </Vonatok>
+</Menetrend>

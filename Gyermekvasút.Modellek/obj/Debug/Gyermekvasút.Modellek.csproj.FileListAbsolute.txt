@@ -1,0 +1,97 @@
+D:\git\vasut\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\git\vasut\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\git\vasut\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\git\vasut\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\git\vasut\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\Pendrive_backup\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+D:\Peti\Pendrive_backup\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\Pendrive_backup\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+E:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+E:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+E:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+E:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+E:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+E:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+I:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+I:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+I:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+I:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+I:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+I:\___2015-10-12\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+E:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+E:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+E:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+E:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+E:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+E:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Csoportok\12. csoport\_rendokt\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll.config
+D:\Csoportok\12. csoport\_rendokt\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Csoportok\12. csoport\_rendokt\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Csoportok\12. csoport\_rendokt\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.dll
+D:\Csoportok\12. csoport\_rendokt\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\obj\Debug\Gyermekvasút.Modellek.csprojResolveAssemblyReference.cache

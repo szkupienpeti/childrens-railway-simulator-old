@@ -1,0 +1,998 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F4388027-82CC-4A01-B6D8-79A4ECBFC355}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gyermekvasút</RootNamespace>
+    <AssemblyName>Gyermekvasút</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\PublishGYV\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0E1A2A945E960166392EDA923E88F2AF4FD6430D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Gyermekvasút_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon%2820%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllomasFormok\A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllomasFormok\A.Designer.cs">
+      <DependentUpon>A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllomasFormok\EM.cs" />
+    <Compile Include="AllomasFormok\H.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllomasFormok\H.Designer.cs">
+      <DependentUpon>H.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllomasFormok\ICsilleberc.cs" />
+    <Compile Include="AllomasFormok\IViragvolgy.cs" />
+    <Compile Include="AllomasFormok\L.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllomasFormok\L.Designer.cs">
+      <DependentUpon>L.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllomasFormok\O.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllomasFormok\O.Designer.cs">
+      <DependentUpon>O.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllomasFormok\U.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllomasFormok\U.Designer.cs">
+      <DependentUpon>U.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\RET\RET2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\RET\RET2.Designer.cs">
+      <DependentUpon>RET2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SH.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SH.Designer.cs">
+      <DependentUpon>SH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHBlokk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHBlokk.Designer.cs">
+      <DependentUpon>SHBlokk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHBlokkbillentyu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHBlokkbillentyu.Designer.cs">
+      <DependentUpon>SHBlokkbillentyu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHCsengo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHCsengo.Designer.cs">
+      <DependentUpon>SHCsengo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHInduktor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHInduktor.Designer.cs">
+      <DependentUpon>SHInduktor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHInduktorPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHInduktorPanel.Designer.cs">
+      <DependentUpon>SHInduktorPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHIranykallantyu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHIranykallantyu.Designer.cs">
+      <DependentUpon>SHIranykallantyu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHKenyszeroldo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHKenyszeroldo.Designer.cs">
+      <DependentUpon>SHKenyszeroldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHTologomb.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\SH\SHTologomb.Designer.cs">
+      <DependentUpon>SHTologomb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEBUG\HostClose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEBUG\HostClose.Designer.cs">
+      <DependentUpon>HostClose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEBUG\LCsV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEBUG\LCsV.Designer.cs">
+      <DependentUpon>LCsV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEBUG\Log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEBUG\Log.Designer.cs">
+      <DependentUpon>Log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EasterEgg\GameOfLife.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EasterEgg\GameOfLife.Designer.cs">
+      <DependentUpon>GameOfLife.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EasterEgg\Makk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EasterEgg\Makk.Designer.cs">
+      <DependentUpon>Makk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EasterEgg\Vaddiszno.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EasterEgg\Vaddiszno.Designer.cs">
+      <DependentUpon>Vaddiszno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ertekeles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ertekeles.Designer.cs">
+      <DependentUpon>Ertekeles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Koruljaras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Koruljaras.Designer.cs">
+      <DependentUpon>Koruljaras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ora.Designer.cs">
+      <DependentUpon>Ora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\Hálózat\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\BejovoHivas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\BejovoHivas.Designer.cs">
+      <DependentUpon>BejovoHivas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\VES\JelzoKapcsologomb.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Biztberek\VES\Kapcsologomb.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Biztberek\VES\VaganyutiKapcsoloGomb.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Biztberek\VES\ValtoKapcsologomb.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Biztberek\VES\VES.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\VES\VES.Designer.cs">
+      <DependentUpon>VES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\VES\VESGomb.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\VES\VESGomb.Designer.cs">
+      <DependentUpon>VESGomb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\VES\VESOlomzarasGomb.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\VES\VESOlomzarasGomb.Designer.cs">
+      <DependentUpon>VESOlomzarasGomb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEBUG\AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEBUG\AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Allomasfonok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Allomasfonok.Designer.cs">
+      <DependentUpon>Allomasfonok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEBUG\Konzol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEBUG\Konzol.Designer.cs">
+      <DependentUpon>Konzol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\EM\EM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\EM\Emeltyu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\EM\Emeltyu.Designer.cs">
+      <DependentUpon>Emeltyu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Biztberek\EM\EmeltyuAllas.cs" />
+    <Compile Include="Biztberek\EM\EmeltyuTipus.cs" />
+    <Compile Include="Biztberek\EM\IEM.cs" />
+    <Compile Include="Biztberek\RET\RET1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Biztberek\RET\RET1.Designer.cs">
+      <DependentUpon>RET1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Halozat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Halozat.Designer.cs">
+      <DependentUpon>Halozat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllomasFormok\S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllomasFormok\S.Designer.cs">
+      <DependentUpon>S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllomasFormok\AllomasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hr.Designer.cs">
+      <DependentUpon>Hr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllomasFormok\I.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllomasFormok\I.Designer.cs">
+      <DependentUpon>I.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Index.Designer.cs">
+      <DependentUpon>Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DEBUG\Jelszo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEBUG\Jelszo.Designer.cs">
+      <DependentUpon>Jelszo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\EngedelyKeres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\EngedelyKeres.Designer.cs">
+      <DependentUpon>EngedelyKeres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\EngedelyValasz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\EngedelyValasz.Designer.cs">
+      <DependentUpon>EngedelyValasz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\IndulasiAdas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\IndulasiAdas.Designer.cs">
+      <DependentUpon>IndulasiAdas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\KimenoHivas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\KimenoHivas.Designer.cs">
+      <DependentUpon>KimenoHivas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Naplozo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Naplozo.Designer.cs">
+      <DependentUpon>Naplozo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StartScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartScreen.Designer.cs">
+      <DependentUpon>StartScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SzamlaloFigy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SzamlaloFigy.Designer.cs">
+      <DependentUpon>SzamlaloFigy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\KozlemenyValaszto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\KozlemenyValaszto.Designer.cs">
+      <DependentUpon>KozlemenyValaszto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\KozlemenyVetel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\KozlemenyVetel.Designer.cs">
+      <DependentUpon>KozlemenyVetel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\TelefonValasz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\TelefonValasz.Designer.cs">
+      <DependentUpon>TelefonValasz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telefon\VisszjelAdas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telefon\VisszjelAdas.Designer.cs">
+      <DependentUpon>VisszjelAdas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EasterEgg\Vadkan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EasterEgg\Vadkan.Designer.cs">
+      <DependentUpon>Vadkan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Valaszto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Valaszto.Designer.cs">
+      <DependentUpon>Valaszto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Valtokezelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Valtokezelo.Designer.cs">
+      <DependentUpon>Valtokezelo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllomasFormok\A.resx">
+      <DependentUpon>A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllomasFormok\AllomasForm.resx">
+      <DependentUpon>AllomasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllomasFormok\H.resx">
+      <DependentUpon>H.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllomasFormok\L.resx">
+      <DependentUpon>L.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllomasFormok\O.resx">
+      <DependentUpon>O.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllomasFormok\U.resx">
+      <DependentUpon>U.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\RET\RET2.resx">
+      <DependentUpon>RET2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SH.resx">
+      <DependentUpon>SH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SHBlokk.resx">
+      <DependentUpon>SHBlokk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SHBlokkbillentyu.resx">
+      <DependentUpon>SHBlokkbillentyu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SHCsengo.resx">
+      <DependentUpon>SHCsengo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SHInduktor.resx">
+      <DependentUpon>SHInduktor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SHInduktorPanel.resx">
+      <DependentUpon>SHInduktorPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SHIranykallantyu.resx">
+      <DependentUpon>SHIranykallantyu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SHKenyszeroldo.resx">
+      <DependentUpon>SHKenyszeroldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\SH\SHTologomb.resx">
+      <DependentUpon>SHTologomb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEBUG\HostClose.resx">
+      <DependentUpon>HostClose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEBUG\LCsV.resx">
+      <DependentUpon>LCsV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEBUG\Log.resx">
+      <DependentUpon>Log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EasterEgg\GameOfLife.resx">
+      <DependentUpon>GameOfLife.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EasterEgg\Makk.resx">
+      <DependentUpon>Makk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EasterEgg\Vaddiszno.resx">
+      <DependentUpon>Vaddiszno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ertekeles.resx">
+      <DependentUpon>Ertekeles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Koruljaras.resx">
+      <DependentUpon>Koruljaras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ora.resx">
+      <DependentUpon>Ora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\BejovoHivas.resx">
+      <DependentUpon>BejovoHivas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\VES\VES.resx">
+      <DependentUpon>VES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\VES\VESGomb.resx">
+      <DependentUpon>VESGomb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\VES\VESOlomzarasGomb.resx">
+      <DependentUpon>VESOlomzarasGomb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEBUG\AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Allomasfonok.resx">
+      <DependentUpon>Allomasfonok.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllomasFormok\S.resx">
+      <DependentUpon>S.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEBUG\Konzol.resx">
+      <DependentUpon>Konzol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\EM\EM.resx">
+      <DependentUpon>EM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\EM\Emeltyu.resx">
+      <DependentUpon>Emeltyu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Biztberek\RET\RET1.resx">
+      <DependentUpon>RET1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Halozat.resx">
+      <DependentUpon>Halozat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hr.resx">
+      <DependentUpon>Hr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllomasFormok\I.resx">
+      <DependentUpon>I.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Index.resx">
+      <DependentUpon>Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEBUG\Jelszo.resx">
+      <DependentUpon>Jelszo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\EngedelyKeres.resx">
+      <DependentUpon>EngedelyKeres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\EngedelyValasz.resx">
+      <DependentUpon>EngedelyValasz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\IndulasiAdas.resx">
+      <DependentUpon>IndulasiAdas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\KimenoHivas.resx">
+      <DependentUpon>KimenoHivas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Naplozo.resx">
+      <DependentUpon>Naplozo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StartScreen.resx">
+      <DependentUpon>StartScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SzamlaloFigy.resx">
+      <DependentUpon>SzamlaloFigy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\KozlemenyValaszto.resx">
+      <DependentUpon>KozlemenyValaszto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\KozlemenyVetel.resx">
+      <DependentUpon>KozlemenyVetel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\TelefonValasz.resx">
+      <DependentUpon>TelefonValasz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telefon\VisszjelAdas.resx">
+      <DependentUpon>VisszjelAdas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EasterEgg\Vadkan.resx">
+      <DependentUpon>Vadkan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Valaszto.resx">
+      <DependentUpon>Valaszto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Valtokezelo.resx">
+      <DependentUpon>Valtokezelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="app.manifest" />
+    <None Include="Gyermekvasút_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\Hálózat\Allomas.wsdl" />
+    <None Include="Service References\Hálózat\gyv.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Hálózat\gyv1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Hálózat\gyv2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Hálózat\gyv3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kék sapka.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telefon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vörös sapka.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-aramzavar-felirat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-valtovil-alap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-valtovil-vilagit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-aramellzav-alap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-jelzoall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-megallj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-torles.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-valtoall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-zavar-alap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-1-alap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-1-lezart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-2-alap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-2-lezart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-megallj1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-zavar-alap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-zavar-vilagit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-hivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-ko.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-szigki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\szamlalosFigy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d55-izzo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HR_balos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HR_jobbos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HR_fel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HR_le.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I_em_üres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ej_fent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ej_lent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A1_fent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A1_lent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A2_fent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A2_lent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B1_fent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B1_lent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B2_fent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\B2_lent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vzk_1_alap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vzk_1_E.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vzk_1_K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vzk_2_E.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vzk_2_K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R1_fent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R1_lent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R2_fent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R2_lent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vzk1E.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vzk1K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vzk2E.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vzk2K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vzkAlap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Gyermekvasút.Modellek\Gyermekvasút.Modellek.csproj">
+      <Project>{8A661503-647B-43EF-B153-C76B4FC6FD8C}</Project>
+      <Name>Gyermekvasút.Modellek</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H_ret_üres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RET_állás0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RET_állásE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RET_állásK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gyvLoadKép.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mávgyv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S_icon_kép2Z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H_icon_kép.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I_icon_kép.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\L_icon_kép.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\L_icon_kép2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="allfon.ico" />
+    <Content Include="favicon%2820%29.ico" />
+    <Content Include="naplozo.ico" />
+    <None Include="Resources\HR_A.png" />
+    <None Include="Resources\SH.png" />
+    <None Include="Resources\shBlokkFeher.png" />
+    <None Include="Resources\shBlokkVoros.png" />
+    <None Include="Resources\shBlokkZold.png" />
+    <None Include="Resources\shBlokkBillentyu.png" />
+    <None Include="Resources\shBlokkBillentyuLehuzva.png" />
+    <None Include="Resources\shTologombAlap.png" />
+    <None Include="Resources\shTologombEgy.png" />
+    <None Include="Resources\shTologombKetto.png" />
+    <None Include="Resources\shIranykallantyuAlap.png" />
+    <None Include="Resources\shIranykallantyuBejarat.png" />
+    <None Include="Resources\shIranykallantyuKijarat.png" />
+    <None Include="Resources\shInduktorBal.png" />
+    <None Include="Resources\shInduktorJobb.png" />
+    <None Include="Resources\shCsengo.png" />
+    <None Include="Resources\shKo.png" />
+    <None Include="Resources\shKoFigy.png" />
+    <None Include="Resources\A_icon_kép.png" />
+    <None Include="Resources\A_icon_képFF.png" />
+    <Content Include="valtkez.ico" />
+    <None Include="Resources\VADKAN.png" />
+    <None Include="Resources\P_MAKK.png" />
+    <None Include="Resources\MAKK.png" />
+    <None Include="Resources\transp_lablec.png" />
+    <None Include="Resources\BAGOLY.png" />
+    <None Include="Resources\O_icon_képFF.png" />
+    <None Include="Resources\O_icon_kép.png" />
+    <None Include="Resources\R2K_lent.png" />
+    <None Include="Resources\R2K_fent.png" />
+    <None Include="Resources\R2E_lent.png" />
+    <None Include="Resources\R2E_fent.png" />
+    <None Include="Resources\R1K_lent.png" />
+    <None Include="Resources\R1K_fent.png" />
+    <None Include="Resources\R1E_lent.png" />
+    <None Include="Resources\R1E_fent.png" />
+    <None Include="Resources\Tj1_lent.png" />
+    <None Include="Resources\Tj1_fent.png" />
+    <None Include="Resources\C_lent.png" />
+    <None Include="Resources\C_fent.png" />
+    <None Include="Resources\B_lent.png" />
+    <None Include="Resources\B_fent.png" />
+    <None Include="Resources\O_RET2_üres.png" />
+    <None Include="Resources\jóláblác.png" />
+    <None Include="Service References\Hálózat\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\Hálózat\configuration.svcinfo" />
+    <None Include="Service References\Hálózat\configuration91.svcinfo" />
+    <None Include="Service References\Hálózat\gyv.disco" />
+    <None Include="Resources\vgutiAblak2.png" />
+    <None Include="Resources\vgutiAblak1.png" />
+    <None Include="Resources\vgutiKapcsGomb.png" />
+    <None Include="Resources\sarga_zaszlo2.PNG" />
+    <None Include="Resources\sarga_zaszlo.png" />
+    <None Include="Resources\U_icon_képFF.png" />
+    <None Include="Resources\U_icon_kép.png" />
+    <None Include="Resources\valtoKapcsGomb.png" />
+    <None Include="Resources\VESvaltoVoros.png" />
+    <None Include="Resources\VESvaltoFeher.png" />
+    <None Include="Resources\VESvaltovil_vilagit.png" />
+    <None Include="Resources\VESvaltovil_sotet.png" />
+    <None Include="Resources\VESvisszjelVilagit.png" />
+    <None Include="Resources\VESvisszjelSotet.png" />
+    <None Include="Resources\OlomzarFigy.png" />
+    <None Include="Resources\VESOlomzarasGomb.png" />
+    <None Include="Resources\VESGomb.png" />
+    <None Include="Resources\VES.png" />
+    <None Include="Resources\jelzoKapcsGomb.png" />
+    <None Include="Resources\S_icon_képFF.png" />
+    <None Include="Resources\L_icon_kép2FF.png" />
+    <None Include="Resources\I_icon_képFF.png" />
+    <None Include="Resources\H_icon_képFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Hálózat\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,23 @@
+System.InvalidOperationException: Nem található a(z) „Hűvösvölgy” nevű végpontelem és a(z) „Hálózat.IAllomas” egyezmény a ServiceModel ügyfél-konfigurációs szakaszában. Ennek oka lehet, hogy nem található konfigurációs fájl az alkalmazáshoz, vagy mert nem található a névvel egyező végpontelem az ügyfélelemben.
+   a következő helyen: System.ServiceModel.Description.ConfigLoader.LoadChannelBehaviors(ServiceEndpoint serviceEndpoint, String configurationName)
+   a következő helyen: System.ServiceModel.ChannelFactory.ApplyConfiguration(String configurationName, Configuration configuration)
+   a következő helyen: System.ServiceModel.ChannelFactory.ApplyConfiguration(String configurationName)
+   a következő helyen: System.ServiceModel.ChannelFactory.InitializeEndpoint(String configurationName, EndpointAddress address)
+   a következő helyen: System.ServiceModel.ChannelFactory`1..ctor(String endpointConfigurationName, EndpointAddress remoteAddress)
+   a következő helyen: System.ServiceModel.ChannelFactory`1..ctor(String endpointConfigurationName)
+   a következő helyen: Gyermekvasút.Halozat.Halozat_Load(Object sender, EventArgs e) hely: D:\Peti\Dev\Gyermekvasút\Gyermekvasút\Halozat.cs, sor: 82
+   a következő helyen: System.Windows.Forms.Form.OnLoad(EventArgs e)
+   a következő helyen: System.Windows.Forms.Form.OnCreateControl()
+   a következő helyen: System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   a következő helyen: System.Windows.Forms.Control.CreateControl()
+   a következő helyen: System.Windows.Forms.Control.WmShowWindow(Message& m)
+   a következő helyen: System.Windows.Forms.Control.WndProc(Message& m)
+   a következő helyen: System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   a következő helyen: System.Windows.Forms.Form.WmShowWindow(Message& m)
+   a következő helyen: System.Windows.Forms.Form.WndProc(Message& m)
+   a következő helyen: System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   a következő helyen: System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   a következő helyen: System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+GYVSZIM Runtime Log tartalma:
+Vége a futásidőben naplózott adatok kivonatának

@@ -1,0 +1,11 @@
+System.NullReferenceException: Az objektumhivatkozás nincs beállítva semmilyen objektumpéldányra.
+   a következő helyen: Gyermekvasút.Vonat.set_Szakasz(Szakasz value) hely: D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\Modellek\Vonat.cs, sor: 589
+   a következő helyen: Gyermekvasút.Vonat.VonatszamCsere() hely: D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút.Modellek\Modellek\Vonat.cs, sor: 914
+   a következő helyen: Gyermekvasút.AllomasFormok.O.KoruljarasVege() hely: D:\Peti\Dev\Gyermekvasút\Gyermekvasút\AllomasFormok\O.cs, sor: 339
+   a következő helyen: Gyermekvasút.AllomasFormok.O.koruljarasTimer_Tick(Object sender, EventArgs e) hely: D:\Peti\Dev\Gyermekvasút\Gyermekvasút\AllomasFormok\O.cs, sor: 326
+   a következő helyen: System.Windows.Forms.Timer.OnTick(EventArgs e)
+   a következő helyen: System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   a következő helyen: System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+GYVSZIM Runtime Log tartalma:
+Vége a futásidőben naplózott adatok kivonatának

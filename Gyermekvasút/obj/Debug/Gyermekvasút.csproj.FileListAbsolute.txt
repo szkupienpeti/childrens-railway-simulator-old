@@ -1,0 +1,592 @@
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.a.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.addTrain.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.s.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\git\vasut\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\git\vasut\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.addTrain.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.s.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.i.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.VonatGenerator.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\git\vasut\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\git\vasut\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\git\vasut\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\git\vasut\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.exe.manifest
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.application
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.addTrain.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.VonatGenerator.resources
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.exe.manifest
+F:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.application
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.exe.manifest
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.application
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.addTrain.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.VonatGenerator.resources
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.exe.manifest
+I:\C#\000_GYV_SZIM\000_NEW\Gyermekvasút\obj\Debug\Gyermekvasút.application
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.manifest
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.application
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.addTrain.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.VonatGenerator.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe.manifest
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.application
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+D:\Peti\C#\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.manifest
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.application
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\ResolveAssemblyReference.cache
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\GenerateResource.read.1.tlog
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\GenerateResource.write.1.tlog
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe.manifest
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.application
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.manifest
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.application
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe.manifest
+D:\Peti\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.application
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+D:\Peti\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VES.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESGomb.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESOlomzarasGomb.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.BejovoHivas.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.KimenoHivas.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyValaszto.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-01-18-40 biztment hálózat\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\C\000_GYV_SZIM\Verziók\12-01-18-40 biztment hálózat\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\C\000_GYV_SZIM\Verziók\12-01-18-40 biztment hálózat\Gyermekvasút (ProgTabor utáni) másolata\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\C\000_GYV_SZIM\Verziók\12-01-18-40 biztment hálózat\Gyermekvasút (ProgTabor utáni) másolata\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.BejovoHivas.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VES.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESGomb.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESOlomzarasGomb.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.KimenoHivas.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyValaszto.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.manifest
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.application
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe.manifest
+D:\Programming\Projects\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.application
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.manifest
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.application
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.BejovoHivas.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VES.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESGomb.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESOlomzarasGomb.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.KimenoHivas.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyValaszto.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe.manifest
+D:\Peti\C\000_GYV_SZIM\Verziók\12-11-10-00 -- MV BME, új Allomas Client\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.application
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyKeres.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyValasz.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.TelefonValasz.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.IndulasiAdas.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyVetel.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.VisszjelAdas.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.O.resources
+D:\Peti\C\000_GYV_SZIM\Verziók\01-26-14-15\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\C\000_GYV_SZIM\Verziók\01-26-14-15\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\C\000_GYV_SZIM\Verziók\01-26-14-15\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.RET2.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.O.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.RET2.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.BejovoHivas.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VES.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESGomb.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESOlomzarasGomb.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyKeres.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyValasz.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.IndulasiAdas.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.KimenoHivas.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyValaszto.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyVetel.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.TelefonValasz.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.VisszjelAdas.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.GameOfLife.resources
+D:\Peti\Svájc\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.LCsV.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.LCsV.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.GameOfLife.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.EasterEgg.Makk.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Vadkan.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.EasterEgg.Vaddiszno.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.O.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.RET2.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.LCsV.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.GameOfLife.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.EasterEgg.Makk.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.EasterEgg.Vaddiszno.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.BejovoHivas.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VES.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESGomb.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESOlomzarasGomb.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyKeres.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyValasz.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.IndulasiAdas.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.KimenoHivas.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyValaszto.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyVetel.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.TelefonValasz.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.VisszjelAdas.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Vadkan.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+D:\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.HostClose.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Koruljaras.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.A.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SH.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHBlokk.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHBlokkbillentyu.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHInduktor.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHIranykallantyu.resources
+D:\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHTologomb.resources
+D:\Peti\Pendrive_backup\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+D:\Peti\Pendrive_backup\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+D:\Peti\Pendrive_backup\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.A.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.O.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.RET2.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SH.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHBlokk.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHBlokkbillentyu.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHCsengo.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHInduktor.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHInduktorPanel.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHIranykallantyu.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHKenyszeroldo.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHTologomb.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.HostClose.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.LCsV.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Log.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.GameOfLife.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.EasterEgg.Makk.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.EasterEgg.Vaddiszno.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Koruljaras.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.BejovoHivas.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VES.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESGomb.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESOlomzarasGomb.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyKeres.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyValasz.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.IndulasiAdas.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.KimenoHivas.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyValaszto.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyVetel.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.TelefonValasz.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.VisszjelAdas.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Vadkan.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache
+F:\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valaszto.resources
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+F:\___FRISS GYVSZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe.config
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.exe
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.pdb
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.exe
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.pdb
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.dll
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\bin\Debug\Gyermekvasút.Modellek.pdb
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csprojResolveAssemblyReference.cache
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.About.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.A.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasForm.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.H.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.L.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.O.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AllomasFormok.U.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.RET2.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SH.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHBlokk.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHBlokkbillentyu.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHCsengo.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHInduktor.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHInduktorPanel.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHIranykallantyu.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHKenyszeroldo.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.SHTologomb.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.HostClose.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.LCsV.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Log.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.GameOfLife.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.EasterEgg.Makk.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.EasterEgg.Vaddiszno.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Ertekeles.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Koruljaras.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Ora.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.BejovoHivas.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VES.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESGomb.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Biztberek.VESOlomzarasGomb.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.AdminPanel.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Allomasfonok.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.S.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.DEBUG.Konzol.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.EM.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Emeltyu.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Modellek.Emeltyűtípusok.RET1.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Halozat.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Hr.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.I.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Index.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Jelszo.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyKeres.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.EngedelyValasz.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.IndulasiAdas.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.KimenoHivas.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Naplozo.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Properties.Resources.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.StartScreen.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.SzamlaloFigy.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyValaszto.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.KozlemenyVetel.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.TelefonValasz.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Telefon.VisszjelAdas.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Vadkan.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valaszto.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.Valtokezelo.resources
+C:\_HSZOBA--\Peti\C\000_GYV_SZIM\Gyermekvasút (ProgTabor utáni)\Gyermekvasút\obj\Debug\Gyermekvasút.csproj.GenerateResource.Cache

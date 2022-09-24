@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:50002/gyv?xsd=xsd1" namespace="http://schemas.datacontract.org/2004/07/Gyermekvas%C3%BAt" />
+  <xs:import schemaLocation="http://localhost:50002/gyv?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:element name="VonatElkuld">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Gyermekvas%C3%BAt" minOccurs="0" name="vonat" nillable="true" type="q1:Vonat" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="VonatElkuldResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="VonatFogad">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Gyermekvas%C3%BAt" minOccurs="0" name="vonat" nillable="true" type="q2:Vonat" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="VonatFogadResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OnMegcsengettek">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="kpFeleHiv" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OnMegcsengettekResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OnVisszacsengettek">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="kpFeleHiv" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OnVisszacsengettekResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OnKozlemeny">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="kpFeleHiv" type="xs:boolean" />
+        <xs:element minOccurs="0" name="kozlemenyTipus" type="xs:int" />
+        <xs:element xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="parameters" nillable="true" type="q3:ArrayOfanyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OnKozlemenyResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OnHivasMegszakitva">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="kpFeleHiv" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OnHivasMegszakitvaResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Ping">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="kpFelePingel" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PingResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

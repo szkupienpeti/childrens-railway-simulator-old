@@ -1,0 +1,45 @@
+=== GVSZIM RunLog ===
+Időpont : 2019-02-16 16:20
+Környezet: Gép {PETI} Felhasználó {Peti}
+Csoport: TESZT
+Menetrend: A+SZIM
+
+Hűvösvölgy
+[16:08] [09:51] ElrendelesBe?442
+[16:14] [10:11] VonatElkuld?442
+[16:17] [10:19] VonatMegallt?442?A
+
+
+
+GYVSZIM Runtime Log tartalma:
+2019-02-16 16:20: ValtKezElrendeltKijarat: 0
+ValtKezLezartValto: 0
+ValtoFeloldas: 0
+JelzoVaganyutReszbenFelhasznalva: 0
+JelzoVaganyutNincsFelhasznalva: 0
+JelzoElrendelesNelkul: 0
+JelzoUjraSzabadraAllitas: 0
+ValtoFeloldasFelhasznalatlanVaganyut: 0
+ValtoLezarasVaganyutBeallitas: 0
+ValtoLezarasElrendelesNelkul: 2
+SzamlalosOlomzarasGomb: 0
+Kenyszeroldas: 0
+TelHelytelenCsengetes: 5
+TelHelytelenVisszacsengetes: 2
+TelEngDupla: 0
+TelEngAllTav: 0
+TelEngVanIndulasiHiany: 0
+TelEngAzonosSzembe: 0
+MenesztesEngNelkul: 0
+MenesztesSzembe: 0
+MenesztesVorosbeValto: 0
+TelVisszjelJelzoSzabad: 0
+TelEngAzonosEllenvonatVolt: 0
+TelIndKeresztVisszjelHiany: 0
+TelIndHiany: 0
+TelEngLejart: 0
+TelVisszjelHiany: 0
+TelEngMasikVaganyut: 0
+TelEngKoruljaras: 0
+
+Vége a futásidőben naplózott adatok kivonatának

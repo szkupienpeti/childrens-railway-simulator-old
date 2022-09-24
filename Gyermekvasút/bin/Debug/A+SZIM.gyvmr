@@ -1,0 +1,61 @@
+<!--GYVSZ Menetrend fájl – program által generált kód-->
+<!--Ha ezt a fájlt kézzel szerkeszted, elronthatod az egészet. Kérlek, ne tedd! Köszi! :) P-->
+<Menetrend>
+  <About Datum="2015.10.13.">
+    <Keszito Nev="Szepes Viktor" />
+    <Keszito Nev="Szkupiern Péter" />
+  </About>
+  <Altalanos>
+    <MenetrendiKod Kod="A+SZIM" />
+    <Gyorsitas SebessegOszto="3" />
+    <KezdesiIdo Ido="9:00" />
+  </Altalanos>
+  <Vonatok>
+    <Vonat Vonatszam="522" Koruljar="True">
+      <Letrehozas Allomas="Széchenyi-hegy" Vagany="2" />
+      <Forda>
+        <Fordulo Vonatszam="522" />
+        <Fordulo Vonatszam="527" />
+        <Fordulo Vonatszam="524" />
+        <Fordulo Vonatszam="525" />
+        <Fordulo Vonatszam="526" />
+      </Forda>
+    </Vonat>
+    <Vonat Vonatszam="422" Koruljar="True">
+      <Letrehozas Allomas="Virágvölgy" Vagany="1" />
+      <Forda>
+        <Fordulo Vonatszam="422" />
+        <Fordulo Vonatszam="427" />
+        <Fordulo Vonatszam="424" />
+        <Fordulo Vonatszam="425" />
+        <Fordulo Vonatszam="426" />
+      </Forda>
+    </Vonat>
+    <Vonat Vonatszam="127" Koruljar="True">
+      <Letrehozas Allomas="Szépjuhászné" Vagany="1" />
+      <Forda>
+        <Fordulo Vonatszam="127" />
+        <Fordulo Vonatszam="122" />
+        <Fordulo Vonatszam="125" />
+        <Fordulo Vonatszam="124" />
+        <Fordulo Vonatszam="123" />
+      </Forda>
+    </Vonat>
+    <Vonat Vonatszam="222" Koruljar="True">
+      <Letrehozas Allomas="Hárs-hegy" Vagany="2" />
+      <Forda>
+        <Fordulo Vonatszam="222" />
+        <Fordulo Vonatszam="225" />
+        <Fordulo Vonatszam="224" />
+      </Forda>
+    </Vonat>
+	<Vonat Vonatszam="387" Koruljar="True">
+      <Letrehozas Allomas="Hűvösvölgy" Vagany="1" />
+      <Forda>
+        <Fordulo Vonatszam="382" />
+        <Fordulo Vonatszam="389" />
+        <Fordulo Vonatszam="384" />
+      </Forda>
+    </Vonat>
+  </Vonatok>
+</Menetrend>

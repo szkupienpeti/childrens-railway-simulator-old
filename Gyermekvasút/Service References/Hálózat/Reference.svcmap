@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fbe0389a-cc4e-4546-9c64-6926e0b8b47d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50002/gyv" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="gyv.xsd" MetadataType="Schema" ID="83540ad6-d7b9-40ca-90b6-c99ba21b7cc4" SourceId="1" SourceUrl="http://localhost:50002/gyv?xsd=xsd0" />
+    <MetadataFile FileName="gyv1.xsd" MetadataType="Schema" ID="a86d2709-fcb5-4823-a052-429a1a4ad207" SourceId="1" SourceUrl="http://localhost:50002/gyv?xsd=xsd3" />
+    <MetadataFile FileName="gyv.disco" MetadataType="Disco" ID="4fef9aec-5375-47e2-885c-cae88f873c69" SourceId="1" SourceUrl="http://localhost:50002/gyv?disco" />
+    <MetadataFile FileName="Allomas.wsdl" MetadataType="Wsdl" ID="38f0150b-60de-4403-ada6-bc9f24dc2179" SourceId="1" SourceUrl="http://localhost:50002/gyv?wsdl" />
+    <MetadataFile FileName="gyv2.xsd" MetadataType="Schema" ID="709853cb-7b31-4bf7-a862-10bdf053bad0" SourceId="1" SourceUrl="http://localhost:50002/gyv?xsd=xsd1" />
+    <MetadataFile FileName="gyv3.xsd" MetadataType="Schema" ID="10c3dfa7-55ad-4e8b-8c6b-8273b8715a5b" SourceId="1" SourceUrl="http://localhost:50002/gyv?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

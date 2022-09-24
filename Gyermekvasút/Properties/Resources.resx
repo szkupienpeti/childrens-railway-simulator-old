@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Ej_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ej_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="S_icon_képFF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\S_icon_képFF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A1_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A1_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_em_üres" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\I_em_üres.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R2_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shTologombKetto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shTologombKetto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shBlokkBillentyu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shBlokkBillentyu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="szamlalosFigy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\szamlalosFigy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VADKAN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VADKAN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-valtovil-alap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-valtovil-alap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vzk_1_E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vzk_1_E.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VESvisszjelVilagit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VESvisszjelVilagit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sarga_zaszlo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sarga_zaszlo2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-jelzoall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-jelzoall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R1_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R1_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="valtoKapcsGomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\valtoKapcsGomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shTologombEgy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shTologombEgy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B1_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B1_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jóláblác" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jóláblác.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vzk1K" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vzk1K.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A2_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A2_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shIranykallantyuAlap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shIranykallantyuAlap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-zavar-vilagit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-zavar-vilagit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="H_icon_kép" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\H_icon_kép.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R2_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shTologombAlap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shTologombAlap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B2_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B2_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mávgyv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mávgyv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shKoFigy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shKoFigy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MAKK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MAKK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-1-alap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-1-alap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HR_balos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HR_balos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vgutiKapcsGomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vgutiKapcsGomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HR_le" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HR_le.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A2_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A2_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vgutiAblak2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vgutiAblak2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VESvaltovil_sotet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VESvaltovil_sotet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VESvaltoVoros" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VESvaltoVoros.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RET_állás0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RET_állás0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B2_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B2_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tj1_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tj1_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shIranykallantyuKijarat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shIranykallantyuKijarat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kék sapka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kék sapka.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VESOlomzarasGomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VESOlomzarasGomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-1-lezart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-1-lezart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-szigki" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-szigki.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-aramellzav-alap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-aramellzav-alap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="L_icon_kép2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\L_icon_kép2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vzk2K" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vzk2K.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2E_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R2E_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HR_A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HR_A.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RET_állásK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RET_állásK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="U_icon_kép" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\U_icon_kép.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A1_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A1_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RET_állásE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RET_állásE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="H_icon_képFF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\H_icon_képFF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-izzo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-izzo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VESvisszjelSotet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VESvisszjelSotet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_MAKK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_MAKK.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shIranykallantyuBejarat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shIranykallantyuBejarat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-torles" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-torles.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ej_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ej_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vzk2E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vzk2E.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-zavar-alap1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-zavar-alap1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vzk_2_E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vzk_2_E.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-2-alap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-2-alap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R1_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R1_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sarga_zaszlo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sarga_zaszlo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-2-lezart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-2-lezart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="L_icon_kép2FF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\L_icon_kép2FF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vzk_1_K" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vzk_1_K.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2K_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R2K_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OlomzarFigy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OlomzarFigy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_icon_képFF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\I_icon_képFF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vzk1E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vzk1E.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-valtovil-vilagit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-valtovil-vilagit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="O_icon_képFF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\O_icon_képFF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B1_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B1_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R1K_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R1K_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="I_icon_kép" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\I_icon_kép.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="L_icon_kép" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\L_icon_kép.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vzk_2_K" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vzk_2_K.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HR_fel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HR_fel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-aramzavar-felirat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-aramzavar-felirat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VESGomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VESGomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jelzoKapcsGomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jelzoKapcsGomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="U_icon_képFF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\U_icon_képFF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shCsengo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shCsengo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-megallj1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-megallj1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vörös sapka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vörös sapka.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shInduktorBal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shInduktorBal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shBlokkFeher" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shBlokkFeher.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="O_icon_kép" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\O_icon_kép.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="S_icon_kép2Z" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\S_icon_kép2Z.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-hivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-hivo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R1E_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R1E_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-valtoall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-valtoall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shBlokkZold" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shBlokkZold.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HR_jobbos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HR_jobbos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="warning" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\warning.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tj1_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tj1_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="H_ret_üres" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\H_ret_üres.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-zavar-alap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-zavar-alap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-ko" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-ko.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="transp_lablec" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\transp_lablec.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vzkAlap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vzkAlap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="C_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\C_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VES" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VES.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vzk_1_alap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vzk_1_alap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shInduktorJobb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shInduktorJobb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2K_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R2K_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VESvaltovil_vilagit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VESvaltovil_vilagit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VESvaltoFeher" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VESvaltoFeher.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="C_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\C_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shBlokkVoros" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shBlokkVoros.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R1K_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R1K_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R1E_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R1E_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shBlokkBillentyuLehuzva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shBlokkBillentyuLehuzva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R2E_fent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R2E_fent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B_lent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B_lent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shKo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shKo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="telefon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\telefon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d55-megallj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d55-megallj.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vgutiAblak1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vgutiAblak1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gyvLoadKép" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gyvLoadKép.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="O_RET2_üres" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\O_RET2_üres.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BAGOLY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BAGOLY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A_icon_kép" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A_icon_kép.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A_icon_képFF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A_icon_képFF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

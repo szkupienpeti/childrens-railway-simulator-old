@@ -1,0 +1,5 @@
+D:\git\vasut\Gyermekvasút.Modellek\bin\Release\Gyermekvasút.Modellek.dll.config
+D:\git\vasut\Gyermekvasút.Modellek\bin\Release\Gyermekvasút.Modellek.dll
+D:\git\vasut\Gyermekvasút.Modellek\bin\Release\Gyermekvasút.Modellek.pdb
+D:\git\vasut\Gyermekvasút.Modellek\obj\Release\Gyermekvasút.Modellek.dll
+D:\git\vasut\Gyermekvasút.Modellek\obj\Release\Gyermekvasút.Modellek.pdb

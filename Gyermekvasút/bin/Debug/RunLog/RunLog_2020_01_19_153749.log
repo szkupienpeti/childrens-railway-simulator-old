@@ -1,0 +1,55 @@
+=== GVSZIM RunLog ===
+Időpont : 2020. 01. 19. 15:37
+Környezet: Gép {PETI} Felhasználó {Peti}
+Csoport: TESZT
+Menetrend: A+SZIM
+
+Széchenyi-hegy
+[15:10] [9:06] ElrendelesKi?522
+
+Csillebérc
+
+Virágvölgy
+
+János-hegy
+
+Szépjuhászné
+
+Hárs-hegy
+
+Hűvösvölgy
+
+
+
+GYVSZIM Runtime Log tartalma:
+2020. 01. 19. 15:37: ValtKezElrendeltKijarat: 0
+ValtKezLezartValto: 0
+ValtoFeloldas: 0
+JelzoVaganyutReszbenFelhasznalva: 0
+JelzoVaganyutNincsFelhasznalva: 0
+JelzoElrendelesNelkul: 0
+JelzoUjraSzabadraAllitas: 0
+ValtoFeloldasFelhasznalatlanVaganyut: 0
+ValtoLezarasVaganyutBeallitas: 0
+ValtoLezarasElrendelesNelkul: 0
+SzamlalosOlomzarasGomb: 0
+Kenyszeroldas: 0
+TelHelytelenCsengetes: 0
+TelHelytelenVisszacsengetes: 0
+TelEngDupla: 0
+TelEngAllTav: 0
+TelEngVanIndulasiHiany: 0
+TelEngAzonosSzembe: 0
+MenesztesEngNelkul: 0
+MenesztesSzembe: 0
+MenesztesVorosbeValto: 0
+TelVisszjelJelzoSzabad: 0
+TelEngAzonosEllenvonatVolt: 0
+TelIndKeresztVisszjelHiany: 0
+TelIndHiany: 0
+TelEngLejart: 0
+TelVisszjelHiany: 0
+TelEngMasikVaganyut: 0
+TelEngKoruljaras: 0
+
+Vége a futásidőben naplózott adatok kivonatának
